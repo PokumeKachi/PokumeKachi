@@ -1,5 +1,20 @@
 ## Hi there 👋
 
+### whoami
+
+- I'm a CS student from Vietnam.
+
+### whatido
+
+- I'm currently learning about programming in general (been at it since 2022)
+- My fields so far:
+    * Full-stack web dev
+    * Application (web, android, desktop) development
+    * Game development
+- How to reach me:
+    * Discord: pokumekachi
+    * Matrix: @pokumekachi:matrix.org
+
 <!--
 **PokumeKachi/PokumeKachi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -15,7 +15,7 @@
     * Discord: pokumekachi
     * Matrix: @pokumekachi:matrix.org
  
-# (Check out my portfolio here!)[https://pokumekachi.web.app]
+- **(Check out my portfolio here!)[https://pokumekachi.web.app]**
 
 <!--
 **PokumeKachi/PokumeKachi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

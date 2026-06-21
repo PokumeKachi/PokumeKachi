@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### whoami
+### whoiam
 
 - I'm a CS student from Vietnam.
 

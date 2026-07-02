@@ -11,7 +11,10 @@
     * Full-stack web dev
     * Application (web, android, desktop) development
     * Game development
-- How to reach me:
+
+### whereiam
+
+- You can reach me on:
     * Discord: pokumekachi
     * Matrix: @pokumekachi:matrix.org
  

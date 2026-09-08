@@ -1,22 +1,4 @@
-## Hi there 👋
-
-### whoiam
-
-- I'm a CS student from Vietnam.
-
-### whatido
-
-- I'm currently learning about programming in general (been at it since 2022)
-- My fields so far:
-    * Full-stack web dev
-    * Application (web, android, desktop) development
-    * Game development
-
-### whereiam
-
-- You can reach me on:
-    * Discord: pokumekachi
-    * Matrix: @pokumekachi:matrix.org
+CS student from Vietnam.
  
 # [Check this website out for more info.](https://pokumekachi.vercel.app)
 
